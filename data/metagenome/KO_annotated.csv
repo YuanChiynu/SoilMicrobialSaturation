@@ -1,0 +1,137 @@
+﻿KEGG_KO,Gene_name,Function,class,cycle
+K12047,MGAM,glucoamylase,carbon degradation,carbon
+K01209,abfA,arabinofuranosidase,carbon degradation,carbon
+K01805,xylA,xylose isomerase,carbon degradation,carbon
+K00117,gcd,glucose dehydrogenase,carbon degradation,carbon
+K01176,amyA,Alpha amylase,carbon degradation,carbon
+K01809,manA,Mannanase,carbon degradation,carbon
+K01521,CDH,Cellobiose dehydrogenase,carbon degradation,carbon
+K01205,naglu,α-N-acetylglucosaminidase,carbon degradation,carbon
+K13381,chiA,endochitinase,carbon degradation,carbon
+K20929,glx,Glyoxal oxidase,carbon degradation,carbon
+K01200,pula,Carbon Cycling,carbon degradation,carbon
+K03862,vana,Carbon Cycling,carbon degradation,carbon
+K00271,vdh,Carbon Cycling,carbon degradation,carbon
+K01601,rbcL,rubisCO large chain,carbon fixation,carbon
+K15231,aclB,ATP-citrate lyase beta-subunit,carbon fixation,carbon
+K00174,korA,2-oxoglutarate ferredoxin oxidoreductase,carbon fixation,carbon
+K00198,acsA,carbon-monoxide dehydrogenase,carbon fixation,carbon
+K15023,acsE,5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase,carbon fixation,carbon
+K14138,acsB,acetyl-CoA synthase,carbon fixation,carbon
+K01962,accA,acetyl-CoA carboxylase carboxyl transferase,carbon fixation,carbon
+K09796,pccA,propionyl-CoA carboxylase alpha,carbon fixation,carbon
+K06219,smtA,succinyl-CoA:(S)- malate CoA transferase,carbon fixation,carbon
+K19280,mct,mesaconyl-CoA C1-C4 CoA transferase,carbon fixation,carbon
+K00244,frdA,fumarate reductase flavoprotein subunit,carbon fixation,carbon
+K00399,mcrA,methyl-coenzyme M reductase alpha subunit,carbon fixation,carbon
+K02647,cdaR,carbohydrate diacid regulon transcriptional regulator,carbon fixation,carbon
+K01963,accD,3-hydroxypropionate bicycle,carbon fixation,carbon
+K15234,ccl,Reductive tricarboxylic acid cycle,carbon fixation,carbon
+K01071,mch,3-hydroxypropionate bicycle,carbon fixation,carbon
+K08691,mcl,3-hydroxypropionate bicycle,carbon fixation,carbon
+K14468,mcr,3-hydroxypropionate bicycle,carbon fixation,carbon
+K00024,mdh,Reductive tricarboxylic acid cycle,carbon fixation,carbon
+K01004,pcs,3-hydroxypropionate bicycle,carbon fixation,carbon
+K01902,sucD,Reductive tricarboxylic acid cycle,carbon fixation,carbon
+K16157,mmox,methane monooxygenase component A alpha chain,methane metabolism,carbon
+K10944,pmoA,methane/ammonia monooxygenase subunit A,methane metabolism,carbon
+K14028,mxa,methanol dehydrogenase (cytochrome c) subunit,methane metabolism,carbon
+K14029,mxa,methanol dehydrogenase (cytochrome c) subunit,methane metabolism,carbon
+K00093,mdh,methanol dehydrogenase,methane metabolism,carbon
+K00399,mcra,methyl-coenzyme M reductase alpha subunit ,methane metabolism,carbon
+K00034,gdh,glutamate dehydrogenase,glutamate dehydrogenase,nitrogen
+K01428,ureC,urease,urease,nitrogen
+K02588,nifH,nitrogenase iron protein,nitrogen fixation,nitrogen
+K00531 ,anfG,nitrogenase delta subunit,nitrogen fixation,nitrogen
+K02586,nifD,nitrogenase molybdenum-iron protein alpha chain,nitrogen fixation,nitrogen
+K02591,nifK,nitrogenase molybdenum-iron protein beta chain,nitrogen fixation,nitrogen
+K02595,nifW,nitrogenase-stabilizing/protective protein,nitrogen fixation,nitrogen
+K22896,vnfD,vanadium-dependent nitrogenase alpha chain,nitrogen fixation,nitrogen
+K22897,vnfK,vanadium-dependent nitrogenase beta chain,nitrogen fixation,nitrogen
+K22898,vnfG,vanadium nitrogenase delta subunit,nitrogen fixation,nitrogen
+K22899,vnfH,vanadium nitrogenase iron protein,nitrogen fixation,nitrogen
+K20932,hzsA,hydrazine synthase subunit A,N cycling,nitrogen
+K20933,hzsA,hydrazine synthase subunit A,N cycling,nitrogen
+K20934,hzsA,hydrazine synthase subunit A,N cycling,nitrogen
+K10944,amoA,ammonia monooxygenase α-subunit,nitrification,nitrogen
+K22359,amoB,ammonia monooxygenase β-subunit,nitrification,nitrogen
+K11517,HAO,hydroxylamine oxidoreductase,denitrification,nitrogen
+K00370,nxrA,nitrite oxidoreductase,nitrification,nitrogen
+K00370,narG,nitrate reductase alpha chain,N cycling,nitrogen
+K02567,napA,periplasmic nitrate reductase,denitrification,nitrogen
+K00372,nasA,assimilatory nitrate reductase catalytic subunit,assimilation,nitrogen
+K15864,nirS,nitrite reductase (NO-forming),denitrification,nitrogen
+K00368,nirK,nitrite reductase (NO-forming),denitrification,nitrogen
+K00376,nosZ,nitrous-oxide reductase,denitrification,nitrogen
+K00367,narb,Assimilatory N reduction,assimilation,nitrogen
+K00366,nira,Assimilatory N reduction,assimilation,nitrogen
+K00362,nirb,Assimilatory N reduction,assimilation,nitrogen
+K04561,norb,Denitrification,denitrification,nitrogen
+K03385,nrfa,Dissimilatory N reduction,dissimilation,nitrogen
+K02305,norC,nitric oxide reductase subunit C,denitrification,nitrogen
+K10535,hao,Nitrification,nitrification,nitrogen
+K00937,ppk,polyphosphate kinase,inorganic phosphorus solubilization,phosphorus
+K01514,ppx,exopolyphosphatase,inorganic phosphorus solubilization,phosphorus
+K01113,phoD,alkaline phosphatase D,organic phosphorus mineralization,phosphorus
+K06137,pqqC,pyrroloquinoline-quinone synthase,inorganic phosphorus solubilization,phosphorus
+K01077,"phoA, phoB",no,organic phosphorus mineralization,phosphorus
+K09474,phoN,acid phosphatase,organic phosphorus mineralization,phosphorus
+K01093 ,appA,no,organic phosphorus mineralization,phosphorus
+K01507,ppa,no,inorganic phosphorus solubilization,phosphorus
+K00897,aphA,no,organic phosphorus mineralization,phosphorus
+K05781,phnK,putative phosphonate transport system ATP-binding protein,organic phosphorus mineralization,phosphorus
+K00117,gcd,Solubilization,inorganic phosphorus solubilization,phosphorus
+K02041,phnC,Mineralization,organic phosphorus mineralization,phosphorus
+K02044,phnD,Mineralization,organic phosphorus mineralization,phosphorus
+K02042,phnE,Mineralization,organic phosphorus mineralization,phosphorus
+K11081,phnS,Mineralization,organic phosphorus mineralization,phosphorus
+K11084,phnT,Mineralization,organic phosphorus mineralization,phosphorus
+K11083,phnU,Mineralization,organic phosphorus mineralization,phosphorus
+K11082,phnV,Mineralization,organic phosphorus mineralization,phosphorus
+K16322,pit,Mineralization,organic phosphorus mineralization,phosphorus
+K02038,pstA,Mineralization,organic phosphorus mineralization,phosphorus
+K02036,pstB,Mineralization,organic phosphorus mineralization,phosphorus
+K02037,pstC,Mineralization,organic phosphorus mineralization,phosphorus
+K02040,pstS,Mineralization,organic phosphorus mineralization,phosphorus
+K05814,ugpA,Mineralization,organic phosphorus mineralization,phosphorus
+K05813,ugpB,Mineralization,organic phosphorus mineralization,phosphorus
+K05816,ugpC,Mineralization,organic phosphorus mineralization,phosphorus
+K05815,ugpE,Mineralization,organic phosphorus mineralization,phosphorus
+K01126,glpQ\ugpQ,Transportation,transport,phosphorus
+K18360,padA,Transportation,transport,phosphorus
+K17323,glpQ,Transportation,transport,phosphorus
+K26913,pbfA,Transportation,transport,phosphorus
+K19670,phnA,Transportation,transport,phosphorus
+K02043,phnF,Transportation,transport,phosphorus
+K24968,phnF,Transportation,transport,phosphorus
+K06166,phnG,Transportation,transport,phosphorus
+K06164,phnI,Transportation,transport,phosphorus
+K06163,phnJ,Transportation,transport,phosphorus
+K05780,phnL,Transportation,transport,phosphorus
+K06162,phnM,Transportation,transport,phosphorus
+K05774,phnN,Transportation,transport,phosphorus
+K09994,phnO,Transportation,transport,phosphorus
+K06167,phnP,Transportation,transport,phosphorus
+K03430,phnW,Transportation,transport,phosphorus
+K05306,phnX,Transportation,transport,phosphorus
+K00206,phnY,Transportation,transport,phosphorus
+K21195,phnY,Transportation,transport,phosphorus
+K23396,phnY,Transportation,transport,phosphorus
+K07658,phoP,Regulation,regulation,phosphorus
+K07636,phoR,Regulation,regulation,phosphorus
+K02039,phoU,Regulation,regulation,phosphorus
+K07776,RegX3,Regulation,regulation,phosphorus
+K07768,SenX3,Regulation,regulation,phosphorus
+K11180,dsrA,sulfite reductase alpha subunit,sulfate reduction,sulfur
+K11181,dsrB,sulfite reductase beta subunit,sulfate reduction,sulfur
+K00387,SUOX,sulfite oxidase,sulfur oxidation,sulfur
+K17226,SoxY,sulfer oxidation protein,sulfur oxidation,sulfur
+K17486,dmdA,DMSP degradation,sulfur degradation,sulfur
+K00381,cysI,Other,sulfate reduction,sulfur
+K00380,cysJ,Reduction,sulfate reduction,sulfur
+K17218,sqr,Sulfide Oxidation,sulfur oxidation,sulfur
+K00392,Sir,sulfite reduction,sulfate reduction,sulfur
+K00302,SoxA,Sulfur Oxidation,sulfur oxidation,sulfur
+K00303,SoxB,Sulfur Oxidation,sulfur oxidation,sulfur
+K17225,SoxC,Sulfur Oxidation,sulfur oxidation,sulfur
+K06196,SoxV,Sulfur Oxidation,sulfur oxidation,sulfur
